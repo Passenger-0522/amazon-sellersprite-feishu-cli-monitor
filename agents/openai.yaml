@@ -1,0 +1,7 @@
+interface:
+  display_name: "亚马逊 SellerSprite + 飞书 CLI 监控"
+  short_description: "先配置 SellerSprite 与飞书 CLI，再按 ASIN 和站点每日监控"
+  default_prompt: "Use $amazon-sellersprite-feishu-cli-monitor to guide first-time setup of the customer's local SellerSprite MCP and official Feishu CLI flow, collect only the ASIN list and marketplace, then monitor those ASINs daily."
+
+policy:
+  allow_implicit_invocation: true

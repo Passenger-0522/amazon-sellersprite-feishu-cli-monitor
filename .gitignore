@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+*.key
+*.pem
+output/
+config/mcporter.json
+config/*secret*
+config/*token*
+config/*watchlist*.json
+
